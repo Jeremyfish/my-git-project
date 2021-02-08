@@ -3,5 +3,5 @@ console.log("Hello There")
 console.log ("Update")
 
 const myFunct = () => {
-    console.log("Hello Again");
+    console.log("Updated README for merge conflict");
 }
